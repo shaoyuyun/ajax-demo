@@ -1,0 +1,2 @@
+# ajax-demo
+XAMPP下的原生JS的ajax、jQuery的ajax以及跨域问题解决方法的jsonp用法
