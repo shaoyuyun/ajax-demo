@@ -9,4 +9,4 @@ XMLHttpRequestJson.html及serverjson.php作为返回数据类型为json的前后
 XMLHttpRequestjQuery.html及serverjson2.php作为jQuery实现的ajax的前后端文件  
 XMLHttpRequestjQueryJsonp.html及serverjsonp.php作为使用jsonp解决ajax跨域问题的前后端文件 
 ## 来源：
-[慕课网Ajax全接触教程]（https://www.imooc.com/learn/250）
+[慕课网Ajax全接触教程](https://www.imooc.com/learn/250)
